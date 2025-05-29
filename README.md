@@ -28,4 +28,4 @@ Never deploy scripts like this on someone else's computer or network.
 
 Inform users clearly if you are capturing any input — transparency is key.
 
-⚠️ Important: Always obtain proper permission before monitoring or logging keystrokes. Unauthorized use can result in serious legal consequences.
+Always obtain proper permission before monitoring or logging keystrokes. Unauthorized use can result in serious legal consequences.

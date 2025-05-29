@@ -10,7 +10,7 @@ python logger.py
 ```
 
 
-#What this does:
+# What this does:
 
 Logs each key you press (when running this script with your knowledge).
 
@@ -18,7 +18,7 @@ Exits safely when you press ESC.
 
 Stores output in key_log.txt in the same folder.
 
-#⚠️ Notes:
+# ⚠️ Notes:
 
 Only use this on your own machine for learning or automation.
 
